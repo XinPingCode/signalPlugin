@@ -1,0 +1,21 @@
+{
+  "name": "signalPlugin",
+  "version": "0.0.76",
+  "description": "testsignal",
+  "cordova": {
+    "id": "signalPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "ChenXinPing",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://210.13.199.115:8899/chenxp71/signalPlugin.git"
+  }
+}
